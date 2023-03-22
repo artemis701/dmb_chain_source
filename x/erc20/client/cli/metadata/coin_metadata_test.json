@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": "The native staking and governance token of the Evmos chain",
+      "denom_units": [
+        {
+          "denom": "dmb",
+          "exponent": 0
+        },
+        {
+          "denom": "evmos",
+          "exponent": 18
+        }
+      ],
+      "base": "dmb",
+      "display": "dmb",
+      "name": "dmb",
+      "symbol": "EVMOS"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "dmb",
+          "exponent": 0
+        },
+        {
+          "denom": "evmos",
+          "exponent": 18
+        }
+      ],
+      "base": "dmb",
+      "display": "dmb",
+      "name": "dmb",
+      "symbol": "EVMOS"
+    }
+  ]
+}
